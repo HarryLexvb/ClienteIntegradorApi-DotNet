@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+.vs/
+TestResults/
+
+.claude/
+.claude.json
+CLAUDE.md
+CLAUDE.local.md
+.claudeignore
+config.bat
+node_modules
